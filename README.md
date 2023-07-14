@@ -3,6 +3,6 @@
 
 2-) Modzila Botun hizmetini kötüye Kullanamak/Komutlarını Spamlamak/Hatalardan yararlanmak Silex Bot üzerinden kalıcı yasaklanmanıza sebep olur.
 
-3-) Hiçbir çekinme duymadan https://discord.gg/SY7aMsVpUJ destek sunucusuna gelip soru sorabilirsiniz.
+3-) Hiçbir çekinme duymadan https://discord.gg/dmHPDp2MZM destek sunucusuna gelip soru sorabilirsiniz.
 
 Not: Bu maddeler herhangi bir gün her an değiştirilebilir
